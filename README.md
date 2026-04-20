@@ -4,7 +4,7 @@
   *victorhugomierez is mastering the art of the attack!*  
   Nivel: **Avanzado (60–90)** → Resolviendo problemas complejos y aplicando conocimientos en distintos entornos.
 
-- **Streak**: 173 días consecutivos en TryHackMe / HackTheBox  
+- **Streak**: 190 días consecutivos en TryHackMe / HackTheBox  
   Constancia y disciplina en labs diarios.
 
 - **Horas acumuladas**: +741 horas de práctica en entornos ofensivos  
